@@ -1,0 +1,6 @@
+D:\Coder Bruh\StudentDB\bin\Release\StudentDB.exe.config
+D:\Coder Bruh\StudentDB\bin\Release\StudentDB.exe
+D:\Coder Bruh\StudentDB\bin\Release\StudentDB.pdb
+D:\Coder Bruh\StudentDB\obj\Release\StudentDB.csproj.CoreCompileInputs.cache
+D:\Coder Bruh\StudentDB\obj\Release\StudentDB.exe
+D:\Coder Bruh\StudentDB\obj\Release\StudentDB.pdb

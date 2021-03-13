@@ -1,0 +1,32 @@
+StudentDB.GradStudent
+david    
+dillon    
+3.7
+ddillon@uw.edu
+2/26/2021 11:00:58 PM
+11111.99
+Dr. Donald Chinn
+StudentDB.Undergrad
+Eric   
+Smith    
+3.2
+esmith@uw.edu
+2/26/2021 11:00:58 PM
+Sophomore
+Computer Science
+StudentDB.GradStudent
+Anthony   
+Costarella   
+3.3
+acostarella@uw.edu
+2/27/2021 2:31:23 AM
+12000
+Dr Jim West
+StudentDB.Undergrad
+Allan 
+Baker 
+2.2
+abc@uw.edu
+2/27/2021 4:01:26 AM
+Junior
+Communications

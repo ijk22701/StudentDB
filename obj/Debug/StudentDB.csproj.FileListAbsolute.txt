@@ -1,0 +1,7 @@
+D:\Coder Bruh\StudentDB\bin\Debug\StudentDB.exe.config
+D:\Coder Bruh\StudentDB\bin\Debug\StudentDB.exe
+D:\Coder Bruh\StudentDB\bin\Debug\StudentDB.pdb
+D:\Coder Bruh\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+D:\Coder Bruh\StudentDB\obj\Debug\StudentDB.exe
+D:\Coder Bruh\StudentDB\obj\Debug\StudentDB.pdb
+D:\Coder Bruh\StudentDB\obj\Debug\StudentDB.csprojAssemblyReference.cache
